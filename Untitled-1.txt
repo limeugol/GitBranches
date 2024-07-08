@@ -1,0 +1,1 @@
+git clonessh://git@repos-ssh.21-school.ru:2289/students/T03D03.ID_239611/limeugol_student.21_school.ru/T03D03-1.git
